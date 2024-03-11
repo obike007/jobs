@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name:  vue-webapp
-          image: obike007/vue:webapp-13safd
+          image: obike007/vue:webapp-94f4617595e35bdad5785e37bdd40ea566c93d6c
           ports:
             - containerPort: 80 
           imagePullPolicy: Always
